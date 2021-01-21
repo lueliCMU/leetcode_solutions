@@ -26,6 +26,6 @@ class StringCompression {
                 chars[loc++] = num;
             }
         }
-        return loc;
+        return loc;  
     }
 }
